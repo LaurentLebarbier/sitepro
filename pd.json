@@ -1,0 +1,371 @@
+{
+    "a": {
+        "paypal2": true,
+        "LayoutElement": true,
+        "TextArea": true,
+        "Languages": true,
+        "Picture": true,
+        "Gallery": true,
+        "Youtube": true,
+        "youku": true,
+        "vimeo": true,
+        "aparat": true,
+        "Video": true,
+        "instagram_video": true,
+        "facebook_video": true,
+        "rutube_video": true,
+        "vk_video": true,
+        "spotify": true,
+        "MusicPlayer": true,
+        "GoogleMaps": true,
+        "yandex_maps": true,
+        "bing_maps": true,
+        "baidu_maps": true,
+        "naver_maps": true,
+        "daum_maps": true,
+        "openstreetmap": true,
+        "Shape": true,
+        "Line": true,
+        "Menu": true,
+        "WB_Footer": true,
+        "LinkExchangeBadge": true,
+        "bank_transfer": true,
+        "cash_on_delivery": true
+    },
+    "b": {
+        "Form": true,
+        "Store": true
+    },
+    "c": {
+        "LayoutElement": [
+            "Full",
+            "Mise en page"
+        ],
+        "TextArea": [
+            "SFR",
+            "Texte"
+        ],
+        "Languages": [
+            "SFR",
+            "Langues"
+        ],
+        "Picture": [
+            "SFR",
+            "Image"
+        ],
+        "Gallery": [
+            "SFR",
+            "Galerie"
+        ],
+        "Youtube": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "youku": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "vimeo": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "aparat": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "Video": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "instagram_video": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "facebook_video": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "rutube_video": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "vk_video": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "spotify": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "MusicPlayer": [
+            "SFR",
+            "M\u00e9dia"
+        ],
+        "GoogleMaps": [
+            "SFR",
+            "Cartes"
+        ],
+        "yandex_maps": [
+            "SFR",
+            "Cartes"
+        ],
+        "bing_maps": [
+            "SFR",
+            "Cartes"
+        ],
+        "baidu_maps": [
+            "SFR",
+            "Cartes"
+        ],
+        "openstreetmap": [
+            "SFR",
+            "Cartes"
+        ],
+        "Shape": [
+            "SFR",
+            "Forme"
+        ],
+        "Line": [
+            "SFR",
+            "Forme"
+        ],
+        "Button": [
+            "SFR",
+            "Bouton"
+        ],
+        "Form": [
+            "SFR",
+            "Formulaire"
+        ],
+        "Menu": [
+            "SFR",
+            "Menu"
+        ],
+        "BuyNow": [
+            "Full",
+            "Commerce"
+        ],
+        "instagram": [
+            "SFR",
+            "Blocs"
+        ],
+        "facebook_comment": [
+            "SFR",
+            "Social"
+        ],
+        "Store": [
+            "Full",
+            "Commerce"
+        ],
+        "StoreCart": [
+            "Full",
+            "Commerce"
+        ],
+        "stripe": [
+            "Full",
+            "Commerce"
+        ],
+        "alipay": [
+            "Full",
+            "Commerce"
+        ],
+        "webmoney_button": [
+            "Full",
+            "Commerce"
+        ],
+        "skrill": [
+            "Full",
+            "Commerce"
+        ],
+        "mollie": [
+            "Full",
+            "Commerce"
+        ],
+        "braintree": [
+            "Full",
+            "Commerce"
+        ],
+        "robokassa": [
+            "Full",
+            "Commerce"
+        ],
+        "paysera": [
+            "Full",
+            "Commerce"
+        ],
+        "pagseguro": [
+            "Full",
+            "Commerce"
+        ],
+        "2checkout": [
+            "Full",
+            "Commerce"
+        ],
+        "webmoney_widget": [
+            "Full",
+            "Commerce"
+        ],
+        "paytrail": [
+            "Full",
+            "Commerce"
+        ],
+        "qiwi_kz": [
+            "Full",
+            "Commerce"
+        ],
+        "wp": [
+            "Full",
+            "Commerce"
+        ],
+        "klarna": [
+            "Full",
+            "Commerce"
+        ],
+        "paymentez": [
+            "Full",
+            "Commerce"
+        ],
+        "ecwid": [
+            "Full",
+            "Commerce"
+        ],
+        "libelula": [
+            "Full",
+            "Commerce"
+        ],
+        "mellat": [
+            "Full",
+            "Commerce"
+        ],
+        "expresspay": [
+            "Full",
+            "Commerce"
+        ],
+        "epayco": [
+            "Full",
+            "Commerce"
+        ],
+        "coinpayments": [
+            "Full",
+            "Commerce"
+        ],
+        "mpesa": [
+            "Full",
+            "Commerce"
+        ],
+        "Blog": [
+            "Full",
+            "Blog"
+        ],
+        "vkontakte_like": [
+            "SFR",
+            "Social"
+        ],
+        "odnoklassniki_share": [
+            "SFR",
+            "Social"
+        ],
+        "FacebookLike": [
+            "SFR",
+            "Social"
+        ],
+        "vkontakte_community": [
+            "SFR",
+            "Social"
+        ],
+        "FacebookFans": [
+            "SFR",
+            "Social"
+        ],
+        "pinterest": [
+            "SFR",
+            "Social"
+        ],
+        "odnoklassniki": [
+            "SFR",
+            "Social"
+        ],
+        "Twitter": [
+            "SFR",
+            "Social"
+        ],
+        "telegram_widget": [
+            "SFR",
+            "Social"
+        ],
+        "BookmarksShare": [
+            "SFR",
+            "Social"
+        ],
+        "vkontakte_comment": [
+            "SFR",
+            "Social"
+        ],
+        "tiktok": [
+            "SFR",
+            "Social"
+        ],
+        "google_calendar": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "GoogleAdSense": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "Banner": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "Table": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "CustomHtml": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "countdown": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "count_up": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "Accordion": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "bookingmood": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "bookaplace": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "tawkto": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "olark": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "zopim": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "getbutton": [
+            "SFR",
+            "Avanc\u00e9"
+        ],
+        "smartarget": [
+            "SFR",
+            "Avanc\u00e9"
+        ]
+    },
+    "d": null,
+    "e": "b29b964d0810cc8790c783535e6f9b1dd3740d75"
+}
